@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F1314601.xsd">
+    <DECLARHEAD>
+        <TIN>3018500014</TIN>
+        <C_DOC>F13</C_DOC>
+        <C_DOC_SUB>146</C_DOC_SUB>
+        <C_DOC_VER>1</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>4</C_DOC_CNT>
+        <C_REG>4</C_REG>
+        <C_RAJ>33</C_RAJ>
+        <PERIOD_MONTH>6</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2021</PERIOD_YEAR>
+        <C_STI_ORIG>433</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS>
+      <DOC NUM="1" TYPE="1">
+        <C_DOC>F13</C_DOC>
+        <C_DOC_SUB>145</C_DOC_SUB>
+        <C_DOC_VER>1</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>4</C_DOC_CNT>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <FILENAME>04333018500014F1314501100000000410620210433.XML</FILENAME>
+      </DOC>
+      <DOC NUM="2" TYPE="1">
+        <C_DOC>F13</C_DOC>
+        <C_DOC_SUB>601</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>4</C_DOC_CNT>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <FILENAME>04333018500014F1360102100000000410620210433.XML</FILENAME>
+      </DOC>
+      <DOC NUM="3" TYPE="1">
+        <C_DOC>F13</C_DOC>
+        <C_DOC_SUB>601</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>2</C_DOC_TYPE>
+        <C_DOC_CNT>4</C_DOC_CNT>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <FILENAME>04333018500014F1360102102000000410620210433.XML</FILENAME>
+      </DOC>
+    </LINKED_DOCS>
+        <D_FILL>12062021</D_FILL>
+        <SOFTWARE>CABINET 0.5.0</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HLNAME>ДАШКО</HLNAME>
+<HPNAME>МИКОЛА</HPNAME>
+<HFNAME>МИКОЛАЙОВИЧ</HFNAME>
+<HTIN>3018500014</HTIN>
+<HKSTI>433</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДПС У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ, ЦАРИЧАНСЬКА ДПІ (ЦАРИЧАНСЬКИЙ Р-Н)</HSTI>
+<HEMAIL>nik23081982@gmail.com</HEMAIL>
+<R01G2S>ДАШКО</R01G2S>
+<R01G5S>ВЕРОНІКА</R01G5S>
+<R01G8S>МИКОЛАЇВНА</R01G8S>
+<R01G10D>04012017</R01G10D>
+<R01G11S>жіноча</R01G11S>
+<R02G1S>УКРАЇНА</R02G1S>
+<R02G2S>ХЕРСОНСЬКА</R02G2S>
+<R02G3S>ВЕЛИКОЛЕПЕТИСЬКИЙ</R02G3S>
+<R02G4S>РУБАНІВКА</R02G4S>
+<HZIP>74700</HZIP>
+<HCOUNTRY>УКРАЇНА</HCOUNTRY>
+<HREG>ХЕРСОНСЬКА</HREG>
+<HRAJ>НИЖНЬОСІРОГОЗЬКИЙ</HRAJ>
+<HCITY>НИЖНІ СІРОГОЗИ</HCITY>
+<HTYPESTR>ВУЛИЦЯ</HTYPESTR>
+<HSTREET>ВИСОЧИНА</HSTREET>
+<HBUILD>74</HBUILD>
+<R04G1S>УКРАЇНА</R04G1S>
+<HTEL>0986286177</HTEL>
+<R07G1S>Свідоцтво про народження (Україна)</R07G1S>
+<R07G2S>1-КГ 227362</R07G2S>
+<R07G3D>12012017</R07G3D>
+<R07G4S>Рубанівська сільська рада</R07G4S>
+<R08G1S>ДАШКО</R08G1S>
+<R08G2S>МИКОЛА</R08G2S>
+<R08G3S>МИКОЛАЙОВИЧ</R08G3S>
+<R08G4S>Паспорт громадянина України у вигляді книжечки</R08G4S>
+<R08G5S>АК254962</R08G5S>
+<R08G6D>30111998</R08G6D>
+<R08G7S>Царичанським РВУМВС В Дніпропетровській области </R08G7S>
+<HFILL>12062021</HFILL>
+<R09G1S>2116 ГУ ДПС У ХЕРСОН.ОБЛ.,АРК,СЕВ.(НИЖНЬОСІРОГОЗЬКИЙ)</R09G1S>
+</DECLARBODY>
+</DECLAR>
